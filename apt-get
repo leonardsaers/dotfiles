@@ -1,0 +1,16 @@
+sudo apt-get install vim
+sudo apt-get install virtualbox
+sudo apt-get install vagrant
+sudo apt-get install git
+sudo apt-get install openjdk-7-jdk
+sudo apt-get install htop
+sudo apt-get install maven
+sudo apt-get install compizconfig-settings-manager
+sudo apt-get install unity-tweak-tool
+sudo apt-get install network-manager-vpnc
+sudo apt-get install network-manager-openvpn-gnome
+sudo apt-get install rdesktop
+sudo apt-get install build-essential libxslt1-dev libxml2-dev zlib1g-dev
+
+
+sudo apt-get install vim virtualbox vagrant git openjdk-7-jdk htop maven compizconfig-settings-manager unity-tweak-tool network-manager-vpnc network-manager-openvpn-gnome rdesktop build-essential libxslt1-dev libxml2-dev zlib1g-dev
